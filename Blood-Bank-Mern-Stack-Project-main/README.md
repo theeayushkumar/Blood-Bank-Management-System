@@ -1,14 +1,21 @@
 # Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project source code please check commits
+Blood Bank Management System is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack to manage blood donation activities efficiently.
 
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
+# Features
+* User authentication: Register and login securely to access the system.
+* Donor management: Add, update, and delete donor information.
+* Inventory management: Keep track of blood units available and their types.
+* Blood request management: Manage blood requests from hospitals or individuals.
+* Admin dashboard: Monitor system activities, manage users, and generate reports.
 
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
+# Technologies Used
+* MongoDB: NoSQL database to store donor, inventory, and request information.
+* Express.js: Node.js web application framework for server-side logic.
+* React.js: JavaScript library for building user interfaces.
+* Node.js: JavaScript runtime environment for server-side execution.
+* Bootstrap: Frontend component library for responsive design.
+* JWT Authentication: JSON Web Tokens for secure user authentication.
+* Axios: Promise-based HTTP client for making API requests.
 
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
-
-
-
+# License
+This project is licensed under the MIT License.
